@@ -1,3 +1,2 @@
-theme: jekyll-theme-slate
-title: Kevin McCabe
-description: This page documents my projects in computational experimental economics
+name: Kevin McCabe's Notes on Computational Experimental Economics
+markdown: kramdown
