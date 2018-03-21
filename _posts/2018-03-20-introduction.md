@@ -1,7 +1,7 @@
 ---
+title: Introduction
+date: 2018-03-20 00:00:00 Z
 layout: post
-title: "Introduction"
-date: 2018-03-20
 ---
 
 This is my first post.
