@@ -7,6 +7,6 @@ layout: default
 	<ul class="posts">
 
 	  {% for faq in site.faqs %}
-	    <li><span>{{ faq.date | date_to_string }}</span> » <a href="{{ faq.url }}" title="{{ faq.title }}">{{ faq.title }}</a></li>
+	    <li><a href="{{ faq.url }}" title="{{ faq.title }}">{{ faq.title }}</a></li>
 	  {% endfor %}
 	</ul>
