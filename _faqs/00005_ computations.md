@@ -1,3 +1,6 @@
-What is a computation?
-
+---
+title: What is a computation?
+date: 2018-03-24 00:00:00 Z
+layout: faq
+---
 For our purposes a computation is a conditionally ordered set of operations on a state space that ends in finite time.  Most of the time we will be interested in computational systems.  The state space in a computational system is defined by a set of physical measurements of things in the real world.  Operations in a computational system are assumed to be defined by a physical platform which can perform an operation in question, that is, apply a process that more, or less, precisely changes the physical measurement of something in the real world.  Platforms can be computers, robots, humans, etc., and any connected network of these.  Algorithms can be used to describe and study the computation performed by computational systems.  Algorithms use an unambiguous language to define a state space, the effect of operations on the state space, and the rules for producing the conditional order of operations.  Algorithms can be defined by an abstract mathematical language or by an applied platform dependent language.
