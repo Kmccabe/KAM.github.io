@@ -8,5 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+  faqs:
+    title: Faqs
+    output: true
 name: Kevin McCabe's Notes on Computational Experimental Economics
 markdown: kramdown
