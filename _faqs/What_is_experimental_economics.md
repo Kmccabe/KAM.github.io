@@ -1,1 +1,6 @@
+---
+title: What is Experimental Economics
+date: 2018-03-24 00:00:00 Z
+layout: faq
+---
 Experimental economics is an area of economics that designs, builds, and runs controlled experiments to study economic systems.  This research started to get interesting in the last half of the 20'th century as a number of economists began to practice the scientific method to facilitate the study of economics.
