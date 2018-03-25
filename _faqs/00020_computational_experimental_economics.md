@@ -1,6 +1,0 @@
----
-title: How do we make experimental economics fully computational?
-date: 2018-03-24 00:00:00 Z
-layout: faq
----
-Computational economics is an area that builds and studies agent-based systems where both the individuals and the institutions are modelled as computational systems.  A new area of economics, called neuroeconomics, allows us to study the embodied brain as a computational system that makes economic decisions.  As we learn how neuroeconomics systems compute we can learn to better close our models of economic systems.
