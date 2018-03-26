@@ -1,5 +1,5 @@
 ---
-title: What is a Computational Economics Experiment?
+title: What is a computational economics experiment?
 date: 2018-03-24 00:00:00 Z
 layout: faq
 ---
