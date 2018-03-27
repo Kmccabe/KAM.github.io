@@ -9,7 +9,7 @@ A **computational economics experiment** uses the experimental method to study t
 This is just a brief description of the current types of economics experiments based on the methodologies used.  There are also many more hybrid experiments that combine two or more of the methodologies described below. 
 
 ## Agent Based Experiments
-Advances in technology allow us to run **agent based experiments** by programming the enviornment, instituions, and decision makers, in an economic system, calibrating the parameters of the program with large scale data bases, and then running computer experiments by simulating the effect of paramter changes on the computer.  The goal of these agent based experiments is to generate hypothese about laws governing the emergent behavior of the system as a whole.  
+Advances in technology allow us to run **agent based experiments** by programming the enviornment, instituions, and decision makers, in an economic system, calibrating the parameters of the program with large scale data bases, and then running computer experiments by simulating the effect of paramter changes on the computer.  The goal of these agent based experiments is to generate hypothese about laws that emerge from the behavior of the system as a whole.  
 
 ## Experimental Economics
 ## Behavioral Economics
