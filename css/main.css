@@ -42,6 +42,15 @@ ul.posts li {
     list-style: none;
 }
 
+ul.ifree { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.ifree li {
+    list-style: none;
+}
+
 ul.faqs { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
