@@ -13,3 +13,5 @@ collections:
     output: true
 name: Kevin McCabe's Notes on Computational Experimental Economics
 markdown: kramdown
+
+theme: jekyll-theme-minimal
