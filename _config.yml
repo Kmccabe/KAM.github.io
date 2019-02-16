@@ -15,4 +15,4 @@ name: Kevin McCabe's Notes on Computational Experimental Economics
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
